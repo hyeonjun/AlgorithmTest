@@ -8,6 +8,7 @@ def solution(N, P, Q):
                 break
         if isPrime:
             prime_list.append(i)
+
     semi_prime = [0] * (N+1)
     for i in range(len(prime_list)):
         for j in range(i,len(prime_list)):
