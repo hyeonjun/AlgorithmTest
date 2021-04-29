@@ -5,8 +5,11 @@ def solution(S,P,Q):
     S_ = ""
     for i in S:
         S_+=(coefficient[i])
-
+    print(S_)
     checker = list(map(lambda p,q : [p,q], P,Q))
+    print(checker)
+    # checker = list(zip(P,Q))
+    print(checker)
     check = "4"
     result = []
     for i in checker:
