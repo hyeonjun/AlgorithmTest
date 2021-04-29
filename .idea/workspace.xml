@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f561c9b-29cc-4c8d-9f81-d77bbe90bf7c" name="Default Changelist" comment="lesson_12_2_CommonPrimeDivisors">
+      <change beforePath="$PROJECT_DIR$/.idea/AlgorithmTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgorithmTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codility/lesson_6_4_Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codility/lesson_6_4_Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codility/lesson_3_3_TapeEquilibrium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codility/lesson_3_3_TapeEquilibrium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codility/lesson_5_2_GenomicRangeQuery.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codility/lesson_5_2_GenomicRangeQuery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProGrammers/level_1_New_ID_recommendation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProGrammers/level_1_New_ID_recommendation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProGrammers/level_1_Not_Completion_Participant.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProGrammers/level_1_Not_Completion_Participant.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +44,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../machineLearning/workspace/MachineLearning/PythonicCode" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.lesson_15_3_CountTriangles">
-    <configuration name="lesson_13_1_FibFrog (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.level_1_Reverse_Ternary_system">
+    <configuration name="level_1_2016_year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codility" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProGrammers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codility/lesson_13_1_FibFrog.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_2016_year.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_13_2_Ladder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_1_Get_the_middle_character" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codility" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProGrammers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codility/lesson_13_2_Ladder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Get_the_middle_character.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_15_2_CountDistinctSlices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_1_No_Same_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codility" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProGrammers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codility/lesson_15_2_CountDistinctSlices.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_No_Same_Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_15_3_CountTriangles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_1_Not_Completion_Participant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codility" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProGrammers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codility/lesson_15_3_CountTriangles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Not_Completion_Participant.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_6_4_Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_1_Reverse_Ternary_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codility" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProGrammers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codility/lesson_6_4_Triangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Reverse_Ternary_system.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson_15_3_CountTriangles" />
-        <item itemvalue="Python.lesson_6_4_Triangle" />
-        <item itemvalue="Python.lesson_13_2_Ladder" />
-        <item itemvalue="Python.lesson_15_2_CountDistinctSlices" />
-        <item itemvalue="Python.lesson_13_1_FibFrog (1)" />
+        <item itemvalue="Python.level_1_Reverse_Ternary_system" />
+        <item itemvalue="Python.level_1_No_Same_Number" />
+        <item itemvalue="Python.level_1_Not_Completion_Participant" />
+        <item itemvalue="Python.level_1_Get_the_middle_character" />
+        <item itemvalue="Python.level_1_2016_year" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +207,28 @@
       <option name="project" value="LOCAL" />
       <updated>1618417384452</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="codility">
+      <created>1618938964540</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618938964540</updated>
+    </task>
+    <task id="LOCAL-00007" summary="codility">
+      <created>1619095637649</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619095637649</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Programmers_2021_04_28">
+      <created>1619608922292</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619608922292</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +246,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson_12_1_ChocolatesByNumbers" />
     <MESSAGE value="lesson_12_2_CommonPrimeDivisors" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_12_2_CommonPrimeDivisors" />
+    <MESSAGE value="codility" />
+    <MESSAGE value="Programmers_2021_04_28" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers_2021_04_28" />
   </component>
 </project>
