@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f561c9b-29cc-4c8d-9f81-d77bbe90bf7c" name="Default Changelist" comment="Programmers_2021_05_01">
-      <change beforePath="$PROJECT_DIR$/.idea/AlgorithmTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgorithmTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5f561c9b-29cc-4c8d-9f81-d77bbe90bf7c" name="Default Changelist" comment="Programmers_2021_05_01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Dart_Game.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wngus\Desktop\공부\Algorithm\ProGrammers\level_1\level_1_Dart_Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Hide_PhoneNumber.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wngus\Desktop\공부\Algorithm\ProGrammers\level_1\level_1_Hide_PhoneNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Scret_Map.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wngus\Desktop\공부\Algorithm\ProGrammers\level_1\level_1_Scret_Map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Spaced_X_Number.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wngus\Desktop\공부\Algorithm\ProGrammers\level_1\level_1_Spaced_X_Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Star.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wngus\Desktop\공부\Algorithm\ProGrammers\level_1\level_1_Star.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,7 +312,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620203911330</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Programmers_05_06">
+      <created>1620293849576</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1620293849576</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Programmers_Lv1_Complete">
+      <created>1620293918268</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1620293918268</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,6 +356,8 @@
     <MESSAGE value="Programmers_2021_05_05" />
     <MESSAGE value="Binary_Search_Tree_Linked_List" />
     <MESSAGE value="Max_Heap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Max_Heap" />
+    <MESSAGE value="Programmers_05_06" />
+    <MESSAGE value="Programmers_Lv1_Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers_Lv1_Complete" />
   </component>
 </project>
