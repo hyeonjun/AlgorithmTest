@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f561c9b-29cc-4c8d-9f81-d77bbe90bf7c" name="Default Changelist" comment="lesson_12_2_CommonPrimeDivisors">
+    <list default="true" id="5f561c9b-29cc-4c8d-9f81-d77bbe90bf7c" name="Default Changelist" comment="Programmers_2021_05_01">
       <change beforePath="$PROJECT_DIR$/.idea/AlgorithmTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgorithmTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codility/lesson_3_3_TapeEquilibrium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codility/lesson_3_3_TapeEquilibrium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codility/lesson_5_2_GenomicRangeQuery.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codility/lesson_5_2_GenomicRangeQuery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProGrammers/level_1_New_ID_recommendation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProGrammers/level_1_New_ID_recommendation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProGrammers/level_1_Not_Completion_Participant.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProGrammers/level_1_Not_Completion_Participant.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +44,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../machineLearning/workspace/MachineLearning/PythonicCode" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.level_1_Reverse_Ternary_system">
-    <configuration name="level_1_2016_year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.level_1_Dart_Game">
+    <configuration name="level_1_Dart_Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_2016_year.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Dart_Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="level_1_Get_the_middle_character" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_1_Hide_PhoneNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Get_the_middle_character.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Hide_PhoneNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="level_1_No_Same_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_1_Scret_Map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_No_Same_Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Scret_Map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="level_1_Not_Completion_Participant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_1_Spaced_X_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Not_Completion_Participant.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Spaced_X_Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="level_1_Reverse_Ternary_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_1_Star" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Reverse_Ternary_system.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/level_1_Star.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.level_1_Reverse_Ternary_system" />
-        <item itemvalue="Python.level_1_No_Same_Number" />
-        <item itemvalue="Python.level_1_Not_Completion_Participant" />
-        <item itemvalue="Python.level_1_Get_the_middle_character" />
-        <item itemvalue="Python.level_1_2016_year" />
+        <item itemvalue="Python.level_1_Dart_Game" />
+        <item itemvalue="Python.level_1_Scret_Map" />
+        <item itemvalue="Python.level_1_Star" />
+        <item itemvalue="Python.level_1_Spaced_X_Number" />
+        <item itemvalue="Python.level_1_Hide_PhoneNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +225,98 @@
       <option name="project" value="LOCAL" />
       <updated>1619608922292</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Programmers_2021_04_29">
+      <created>1619690033229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619690033229</updated>
+    </task>
+    <task id="LOCAL-00010" summary="codility">
+      <created>1619690074314</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619690074314</updated>
+    </task>
+    <task id="LOCAL-00011" summary="venv">
+      <created>1619792884630</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619792884630</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Programmers_2021_04_30">
+      <created>1619793612335</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619793612335</updated>
+    </task>
+    <task id="LOCAL-00013" summary="venv">
+      <created>1619793639809</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1619793639809</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Linked_List">
+      <created>1619793673763</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619793673763</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Hash_Table">
+      <created>1619886227879</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1619886227879</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Hash_Table">
+      <created>1619887304566</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1619887304566</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Programmers_2021_05_01">
+      <created>1619896738891</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1619896738891</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Programmser_2021_05_04">
+      <created>1620141330236</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1620141330236</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Programmers_2021_05_05">
+      <created>1620191480480</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1620191480480</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Binary_Search_Tree_Linked_List">
+      <created>1620198951620</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1620198951620</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Max_Heap">
+      <created>1620203911330</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1620203911330</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,8 +334,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson_12_1_ChocolatesByNumbers" />
     <MESSAGE value="lesson_12_2_CommonPrimeDivisors" />
-    <MESSAGE value="codility" />
     <MESSAGE value="Programmers_2021_04_28" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programmers_2021_04_28" />
+    <MESSAGE value="Programmers_2021_04_29" />
+    <MESSAGE value="codility" />
+    <MESSAGE value="Programmers_2021_04_30" />
+    <MESSAGE value="venv" />
+    <MESSAGE value="Linked_List" />
+    <MESSAGE value="Hash_Table" />
+    <MESSAGE value="Programmers_2021_05_01" />
+    <MESSAGE value="Programmser_2021_05_04" />
+    <MESSAGE value="Programmers_2021_05_05" />
+    <MESSAGE value="Binary_Search_Tree_Linked_List" />
+    <MESSAGE value="Max_Heap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Max_Heap" />
   </component>
 </project>
