@@ -1,11 +1,9 @@
 def solution(N, stages):
-    checker = {}
-    for i in range(N + 1):
-        checker[i] = 0
+    checker = {i:0 for i in range(N+1)}
     for i in range(len(stages)):
         if stages[i] in checker:
             checker[stages[i]] += 1
-
+    print(checker)
     failure = []
     reach_user = 0
     for i in range(N):
@@ -19,3 +17,5 @@ def solution(N, stages):
 
     return [failure[i][0] for i in range(len(failure))]
 
+print(solution(5, [2,1,2,6,2,4,3,3]))
+print(solution(4, [4,4,4,4,4]))

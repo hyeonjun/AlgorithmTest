@@ -3,7 +3,7 @@ def solution(dartResult):
     tmp = re.split('([SDT*#]+)', dartResult)
     tmp = list(filter(lambda x: x != '', tmp))
     answer = [0] * len(tmp)
-
+    print(tmp)
     def calc(n, s):
         if s == 'S':
             return int(n) ** 1
@@ -40,6 +40,7 @@ def solution(dartResult):
     import re
     # [('1', 'D', ''), ('2', 'S', ''), ('3', 'T', '*')]
     dart = re.findall('(\d+)([SDT])([*#]?)', dartResult)
+    print(dart)
     for i in range(len(dart)):
         if dart[i][2] == '*' and i > 0:
             dart[i-1] *= option[dart[i][2]]
