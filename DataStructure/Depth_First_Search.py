@@ -5,6 +5,7 @@
 def dfs_left(graph, start_node):
     visited, need_visit = list(), list()
     visited.append(start_node)
+
     need_visit.extend(graph[start_node])
     node = need_visit.pop(0)
     visited.append(node)
