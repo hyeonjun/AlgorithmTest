@@ -2,15 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="494780c7-1e4c-45a8-9d12-5fd96ccbcbf9" name="Default Changelist" comment="Programmers_2021_05_01">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Crane_Doll_Draw.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Crane_Doll_Draw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Dart_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Dart_Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Failure_Rate.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Failure_Rate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_New_ID_recommendation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_New_ID_recommendation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Press_the_Keypad.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Press_the_Keypad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/BackTracking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/BackTracking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Binary_Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Binary_Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Binary_Search_Tree_Linked_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Binary_Search_Tree_Linked_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Breadth_First_Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Breadth_First_Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Bubble_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Bubble_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Depth_First_Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Depth_First_Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Dijkstra_Algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Doubly_Linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Doubly_Linked_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Dynamic_Programming_Basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Dynamic_Programming_Basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Greedy_Algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Greedy_Algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Hash_Table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Hash_Table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Hash_Table_Chaining.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Hash_Table_Chaining.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Hash_Table_Chaining_SHA256.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Hash_Table_Chaining_SHA256.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Hash_Table_Linear_Probing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Hash_Table_Linear_Probing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Insertion_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Insertion_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Kruskals_Algoritm_with_Union_Find.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Kruskals_Algoritm_with_Union_Find.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Linked_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Max_Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Max_Heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Merge_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Merge_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Prim_Algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Prim_Algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Quick_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Quick_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Recursive_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Recursive_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Selection_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Selection_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Sequential_Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Study/DataStructure/Sequential_Search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Scret_Map.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Scret_Map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Two_Number_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Two_Number_Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +69,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wngus\Desktop\공부\Algorithm\Algorithm_Study" />
       <recent name="C:\Users\wngus\Desktop\공부\Algorithm\ProGrammers\Lv1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dynamic_Programming_Basic">
-    <configuration name="Dynamic_Programming_Basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.level_Quad_Compression">
+    <configuration name="level_1_Scret_Map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProGrammers/Lv1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/Dynamic_Programming_Basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/Lv1/level_1_Scret_Map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Programming_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_2_Another_Bit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProGrammers/Lv2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/Lv2/level_2_Another_Bit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Programming_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_2_Rotate_Bracket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProGrammers/Lv2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/Lv2/level_2_Rotate_Bracket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Programming_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_2_Triangular_Snail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProGrammers/Lv2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/Lv2/level_2_Triangular_Snail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Recursive_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="level_Quad_Compression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProGrammers/Lv2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/Recursive_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProGrammers/Lv2/level_Quad_Compression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Dynamic_Programming_Basic" />
-        <item itemvalue="Python.Recursive_function" />
-        <item itemvalue="Python.Programming_3" />
-        <item itemvalue="Python.Programming_2" />
-        <item itemvalue="Python.Programming_1" />
+        <item itemvalue="Python.level_Quad_Compression" />
+        <item itemvalue="Python.level_2_Triangular_Snail" />
+        <item itemvalue="Python.level_2_Rotate_Bracket" />
+        <item itemvalue="Python.level_2_Another_Bit" />
+        <item itemvalue="Python.level_1_Scret_Map" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +366,168 @@
       <option name="project" value="LOCAL" />
       <updated>1620299243647</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Update">
+      <created>1620797279482</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1620797279482</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Recursive_Function">
+      <created>1620797326266</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1620797326266</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Dynamic_Programming_Basic">
+      <created>1620797347115</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1620797347115</updated>
+    </task>
+    <task id="LOCAL-00028" summary="2021_05_15">
+      <created>1621005710189</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1621005710189</updated>
+    </task>
+    <task id="LOCAL-00029" summary="2021_05_15">
+      <created>1621009735338</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1621009735338</updated>
+    </task>
+    <task id="LOCAL-00030" summary="2021_05_15">
+      <created>1621063996309</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1621063996309</updated>
+    </task>
+    <task id="LOCAL-00031" summary="2021_05_15">
+      <created>1621064007610</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1621064007610</updated>
+    </task>
+    <task id="LOCAL-00032" summary="2021_05_16">
+      <created>1621112801749</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1621112801749</updated>
+    </task>
+    <task id="LOCAL-00033" summary="BFS_DFS">
+      <created>1621399002340</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1621399002340</updated>
+    </task>
+    <task id="LOCAL-00034" summary="2021_05_19_Progammers">
+      <created>1621399032578</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1621399032578</updated>
+    </task>
+    <task id="LOCAL-00035" summary="2021_05_20_Programmers">
+      <created>1621471712580</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1621471712580</updated>
+    </task>
+    <task id="LOCAL-00036" summary="2021_05_20_Programmers">
+      <created>1621479487768</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1621479487768</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Greedy_Algorithm">
+      <created>1621573352923</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1621573352923</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Dijkstra_Algorithm">
+      <created>1621573383945</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1621573383945</updated>
+    </task>
+    <task id="LOCAL-00039" summary="2021_05_21_Programmers">
+      <created>1621578102164</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1621578102164</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Kruskal's_Algorithm">
+      <created>1621585259320</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1621585259320</updated>
+    </task>
+    <task id="LOCAL-00041" summary="2021_05_21_Programmers">
+      <created>1621588969005</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1621588969005</updated>
+    </task>
+    <task id="LOCAL-00042" summary="2021_05_22_Programmers">
+      <created>1621668446740</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1621668446740</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Prim_Algorithm">
+      <created>1621673876561</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1621673876561</updated>
+    </task>
+    <task id="LOCAL-00044" summary="-">
+      <created>1621674115907</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1621674115907</updated>
+    </task>
+    <task id="LOCAL-00045" summary="BackTracking">
+      <created>1622049206088</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1622049206089</updated>
+    </task>
+    <task id="LOCAL-00046" summary="DFS">
+      <created>1622049226917</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1622049226917</updated>
+    </task>
+    <task id="LOCAL-00047" summary="2021_05_26_Programmers">
+      <created>1622062125158</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1622062125158</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,15 +543,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson_12_1_ChocolatesByNumbers" />
-    <MESSAGE value="lesson_12_2_CommonPrimeDivisors" />
-    <MESSAGE value="Programmers_2021_04_28" />
-    <MESSAGE value="Programmers_2021_04_29" />
-    <MESSAGE value="codility" />
-    <MESSAGE value="Programmers_2021_04_30" />
-    <MESSAGE value="venv" />
-    <MESSAGE value="Linked_List" />
-    <MESSAGE value="Hash_Table" />
     <MESSAGE value="Programmers_2021_05_01" />
     <MESSAGE value="Programmser_2021_05_04" />
     <MESSAGE value="Programmers_2021_05_05" />
@@ -380,6 +550,145 @@
     <MESSAGE value="Max_Heap" />
     <MESSAGE value="Programmers_Lv1_Complete_05_06" />
     <MESSAGE value="Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Recursive_Function" />
+    <MESSAGE value="Dynamic_Programming_Basic" />
+    <MESSAGE value="2021_05_15" />
+    <MESSAGE value="2021_05_16" />
+    <MESSAGE value="BFS_DFS" />
+    <MESSAGE value="2021_05_19_Progammers" />
+    <MESSAGE value="2021_05_20_Programmers" />
+    <MESSAGE value="Greedy_Algorithm" />
+    <MESSAGE value="Dijkstra_Algorithm" />
+    <MESSAGE value="Kruskal's_Algorithm" />
+    <MESSAGE value="2021_05_21_Programmers" />
+    <MESSAGE value="2021_05_22_Programmers" />
+    <MESSAGE value="Prim_Algorithm" />
+    <MESSAGE value="-" />
+    <MESSAGE value="BackTracking" />
+    <MESSAGE value="DFS" />
+    <MESSAGE value="2021_05_26_Programmers" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021_05_26_Programmers" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm_Study/DataStructure/Dijkstra_Algorithm.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

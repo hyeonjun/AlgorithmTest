@@ -22,7 +22,7 @@ def solution(n, arr1, arr2):
     answer = []
     for i, j in zip(arr1, arr2):
         a = str(bin(i|j)[2:]) # 1|1 : 1 0|1 : 1 0|0 : 0
-        print(a)
+        print("a: ", a, bin(i)[2:], bin(j)[2:])
         a = a.rjust(n, '0') # a의 길이에서 n보다 작은 만큼 0을 만듬
         a = a.replace('1', '#')
         a = a.replace('0', ' ')
