@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 # Priority Queue with heapq
 import heapq
 queue = []
@@ -22,19 +23,22 @@ mygraph = {
 
 def dijkstra(graph, start):
     distances = {node:float('inf') for node in graph}
+    print(distances)
     distances[start] = 0
     queue = []
 
     heapq.heappush(queue, [distances[start], start])
     while queue:
         current_distance, current_node = heapq.heappop(queue)
-        if distances[current_node] < current_distance:
-            continue
-        for adjacent, weight in graph[current_node].items():
-            distance = current_distance + weight
-            if distance < distances[adjacent]:
-                distances[adjacent] = distance
-                heapq.heappush(queue, [distance, adjacent])
+        # if distances[current_node] < current_distance:
+        #     continue
+        if distances[current_node] >= current_distance:
+            for adjacent, weight in graph[current_node].items():
+                distance = current_distance + weight
+                if distance < distances[adjacent]:
+                    distances[adjacent] = distance
+                    heapq.heappush(queue, [distance, adjacent])
+    print(queue)
     return distances
 
 print(dijkstra(mygraph, 'A'))

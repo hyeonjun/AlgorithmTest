@@ -32,14 +32,16 @@ import heapq
 #
 # # collections의 defaultdict 함수 - key에 대한 value를 지정하지 않았을 시, 빈 리스트로 초기화
 from collections import defaultdict
-# list_dict = defaultdict(list)
-# print(list_dict['key1']) # []
-#
-# list_dict = defaultdict(int)
-# print(list_dict['key1']) # 0
-#
-# list_dict = defaultdict(float)
-# print(list_dict['key1']) # 0.0
+list_dict = defaultdict(list)
+print(list_dict['key1']) # []
+
+list_dict = defaultdict(int)
+print(list_dict['key1']) # 0
+
+list_dict = defaultdict(float)
+print(list_dict['key1']) # 0.0
+
+print(list_dict)
 
 myedges = [
     (7, 'A', 'B'), (5, 'A', 'D'),
@@ -56,6 +58,8 @@ def prim(start_node, edges):
     for weight, n1, n2 in edges: # 모든 간선 정보를 저장
         edge_list[n1].append((weight,n1,n2))
         edge_list[n2].append((weight,n2,n1))
+
+    print(edge_list)
 
     connected_nodes = set(start_node) # 임의의 정점 선택
     candidate_edge = edge_list[start_node] # 선택된 정점에 연결된 간선들 저장

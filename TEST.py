@@ -83,3 +83,17 @@
 # """
 
 
+
+
+from collections import defaultdict
+road = 	[[1,2,1],[2,3,3],[5,2,2],[1,4,2],[5,3,1],[5,4,2]]
+graph = dict()
+
+for i in road:
+    if str(i[0]) not in graph:
+        graph[str(i[0])]=({str(i[1]):i[2]})
+    else:
+        graph[str(i[0])].update({str(i[1]): i[2]})
+print(graph)
+
+
