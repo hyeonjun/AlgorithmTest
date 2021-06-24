@@ -10,7 +10,7 @@ def solution(stones, k): # 효율성 실패
         answer += 1
 print(solution([2, 4, 5, 3, 2, 1, 4, 2, 5, 1], 3))
 
-def solution(stones, k):
+def solution(stones, k): # 이분 탐색으로 시간복잡도 통과
     left, right = 1, max(stones)
     while left <= right:
         mid = (left + right) // 2
