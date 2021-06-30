@@ -11,8 +11,7 @@ def solution(n, m, N, M):
 
     for i in range(n+m-2):
         for j in range(n+m-1-i):
-            n_s = score[j]+score[j+1]
-            score[j] = n_s if n_s < 10 else n_s % 10
+            score[j] = (score[j]+score[j+1]) % 10
     return "{0}%".format(score[0] * 10 + score[1])
 
 print(solution(8,14,"LEESIYUN", "MIYAWAKISAKURA")) # 27%
