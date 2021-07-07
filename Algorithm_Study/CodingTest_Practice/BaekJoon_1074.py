@@ -32,8 +32,7 @@ def solution(sz, r, c):
     for i in range(2):
         for j in range(2):
             if r < sz * (i+1) and c < sz * (j+1):
-                return (i*2+j) * sz * sz + solution(sz, r-sz*i, c-sz*i)
-    pass
+                return (i*2+j) * sz*sz + solution(sz, r-sz*i, c-sz*j)
 
 print(solution(2**2, 3, 1)) # 10
 print(solution(2**3, 7, 7)) # 63
