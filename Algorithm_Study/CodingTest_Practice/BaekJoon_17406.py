@@ -26,7 +26,7 @@ def convert(arr, qry):
                 rr, cc = nx, ny
     return new_arr
 
-ans = 10000
+ans = 1e7
 def dfs(arr, qry, k):
     global ans
     if sum(qry) == k:
