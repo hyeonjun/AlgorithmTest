@@ -92,7 +92,7 @@ def rotate(n, board):
     return tmp
 def convert(n, board):
     tmp = [i for i in board if i != 0]
-    for i in range(1, len(tmp)):
+    for i in range(1, len(tmp)): # 90도 회전
         if tmp[i-1] == tmp[i]:
             tmp[i-1] *= 2
             tmp[i] = 0
@@ -105,7 +105,8 @@ def dfs(n, board, count):
         return result
     for _ in range(4):
         tmp = [convert(n, i) for i in board]
-        result = max(result, dfs(n, tmp, count+1))
+        if tmp != board:
+            result = max(result, dfs(n, tmp, count+1))
         board = rotate(n, board)
     return result
 
