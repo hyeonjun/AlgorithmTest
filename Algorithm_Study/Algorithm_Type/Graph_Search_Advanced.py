@@ -43,6 +43,39 @@ graph = [
 [3, 2, 4]
 ]
 print(solution(3, 3, 1, graph)) # 3,6
+
+# import heapq
+# def dijkstra(start):
+#     heap_data = []
+#     heapq.heappush(heap_data, (0, start))
+#     distance[start] = 0
+#     while heap_data:
+#         dist, now = heapq.heappop(heap_data)
+#         if distance[now] < dist:
+#             continue
+#         for i in adj[now]:
+#             cost = dist + i[1]
+#             if distance[i[0]] > cost:
+#                 distance[i[0]] = cost
+#                 heapq.heappush(heap_data, (cost, i[0]))
+#
+# for _ in range(int(input())):
+#     n, m, start = map(int, input().split())
+#     adj = [[] for _ in range(n+1)]
+#     distance = [float('inf') for _ in range(n+1)]
+#     for _ in range(m):
+#         x, y, cost = map(int, input().split())
+#         adj[y].append((x, cost))
+#     dijkstra(start)
+#     count = 0
+#     max_distance = 0
+#     for i in distance:
+#         if i != float('inf'):
+#             count += 1
+#             if i > max_distance:
+#                 max_distance = i
+#     print(count, max_distance)
+
 # ========================================================================
 
 # 거의 최단 경로
@@ -122,6 +155,105 @@ graph = [
 [3, 0, 1]
 ]
 print(solution(6,8,0,1,graph)) # 6
+
+# 위 코드는 이제 메모리 초과 발생함, 아래 코드로 해야함
+# import sys, heapq
+# from collections import deque
+# INF = 9876543210
+#
+# def dijkstra(start):
+#     pq = []
+#
+#     dist[start] = 0
+#     heapq.heappush(pq, (start, dist[start]))
+#     while pq:
+#         now_node, distance = heapq.heappop(pq)
+#
+#         if dist[now_node] < distance:
+#             continue
+#
+#         for node, length in graph[now_node]:
+#             if not available[now_node][node]:
+#                 continue
+#
+#             if dist[node] > dist[now_node] + length:
+#                 dist[node] = dist[now_node] + length
+#
+#                 heapq.heappush(pq, (node, dist[node]))
+#
+#
+# def reverse_dijkstra(start):
+#     reverse_pq = []
+#
+#     reverse_dist[start] = 0
+#     heapq.heappush(reverse_pq, (start, reverse_dist[start]))
+#     while reverse_pq:
+#         now_node, distance = heapq.heappop(reverse_pq)
+#
+#         if reverse_dist[now_node] < distance:
+#             continue
+#
+#         for node, length in graph_reverse[now_node]:
+#
+#             if reverse_dist[node] > reverse_dist[now_node] + length:
+#                 reverse_dist[node] = reverse_dist[now_node] + length
+#
+#                 heapq.heappush(reverse_pq, (node, reverse_dist[node]))
+#
+#
+# while True:
+#     n, m = map(int, sys.stdin.readline().split())
+#     if n == 0 and m == 0:
+#         break
+#
+#     graph = [[] for _ in range(n)]
+#     graph_reverse = [[] for _ in range(n)]
+#     dist =  [INF for _ in range(n)]
+#     reverse_dist = [INF for _ in range(n)]
+#     available = [[False for _ in range(n)] for _ in range(n)]
+#     visit = [False for _ in range(n)]
+#     q = deque()
+#
+#     s, d = map(int, sys.stdin.readline().split())
+#     for _ in range(m):
+#         u, v, p = map(int, sys.stdin.readline().split())
+#         graph[u].append((v, p))  # v로 가는데 p의 도로 길이
+#         graph_reverse[v].append((u, p))
+#         available[u][v] = True
+#
+#     # 다익스트라로 최단 경로 구하기
+#     dijkstra(s)
+#     reverse_dijkstra(d)
+#
+#     min_distance = dist[d]
+#
+#     # 애초에 최단 경로가 존재하지 않을 경우
+#     if min_distance == INF:
+#         print(-1)
+#         continue
+#
+#     q.append(d)
+#     visit[s] = True
+#     while q:
+#         node_from = q.popleft()
+#         for node_to, cost in graph_reverse[node_from]:
+#             if reverse_dist[node_from] + cost == min_distance - dist[node_to]:
+#                 available[node_to][node_from] = False
+#
+#             if not visit[node_to]:
+#                 q.append(node_to)
+#                 visit[node_to] = True
+#
+#     dist = [INF for _ in range(n)]
+#     dist[s] = 0
+#     dijkstra(s)
+#
+#     print(-1 if dist[d] == INF else dist[d])
+
+
+
+
+
 # ========================================================================
 
 # 우주신과의 교감
