@@ -24,3 +24,31 @@ for j in range(c):
             exit(0)
 print("NO")
 
+
+# ============================================
+direction = [(1,0), (-1,0), (0,1), (0,-1)]
+r, c = map(int, input().split())
+board = [list(input()) for _ in range(r)]
+visited = [[False for _ in range(c)] for _ in range(r)]
+queue = []
+
+def bfs():
+    while queue:
+        x, y = queue.pop(0)
+        if x == r-1:
+            return "YES"
+
+        for dx, dy in direction:
+            nx, ny = x + dx, y + dy
+            if 0 <= nx < r and 0 <= ny < c and not visited[nx][ny] and board[nx][ny] == '0':
+                visited[nx][ny] = True
+                queue.append((nx, ny))
+    return "NO"
+
+for i in range(c):
+    if board[0][i] == '0':
+        queue.append((0, i))
+        visited[0][i] = True
+
+print(bfs())
+
