@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="494780c7-1e4c-45a8-9d12-5fd96ccbcbf9" name="Default Changelist" comment="2021_07_07_BaekJoon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,15 +54,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wngus\Desktop\공부\Algorithm\CodingTest" />
+      <recent name="C:\Users\wngus\Desktop\공부\Algorithm\BaekJoon\AlgorithmType\Dijkstra" />
+      <recent name="C:\Users\wngus\Desktop\공부\Algorithm\BaekJoon\AlgorithmType" />
       <recent name="C:\Users\wngus\Desktop\공부\Algorithm\BaekJoon\Greedy" />
       <recent name="C:\Users\wngus\Desktop\공부\Algorithm\BaekJoon" />
-      <recent name="C:\Users\wngus\Desktop\공부\Algorithm\BaekJoon\Class_5" />
-      <recent name="C:\Users\wngus\Desktop\공부\Algorithm\Encore" />
-      <recent name="C:\Users\wngus\Desktop\공부\Algorithm\Algorithm_Study" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Greedy_10162">
-    <configuration name="BFS_1600" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BitMask_1062">
+    <configuration name="BitMask_1062" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/AlgorithmType/BitMask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/BFS/BFS_1600.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/AlgorithmType/BitMask/BitMask_1062.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BFS_22868" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PQ_13334" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/AlgorithmType/Queue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/BFS/BFS_22868.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/AlgorithmType/Queue/PQ_13334.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Greedy_10162" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PQ_13904" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +112,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/AlgorithmType/Queue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\wngus\Desktop\공부\Algorithm\BaekJoon\Greedy\Greedy_10162.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/AlgorithmType/Queue/PQ_13904.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PQ_1655" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/AlgorithmType/Queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/AlgorithmType/Queue/PQ_1655.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Queue_3078" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/AlgorithmType/Queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/AlgorithmType/Queue/Queue_3078.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,55 +188,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sillicon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\wngus\Desktop\공부\Algorithm\CodingTest\sillicon.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wintercoding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\wngus\Desktop\공부\Algorithm\CodingTest\wintercoding.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Greedy_10162" />
-        <item itemvalue="Python.sillicon" />
-        <item itemvalue="Python.BFS_1600" />
-        <item itemvalue="Python.BFS_22868" />
-        <item itemvalue="Python.wintercoding" />
+        <item itemvalue="Python.BitMask_1062" />
+        <item itemvalue="Python.Queue_3078" />
+        <item itemvalue="Python.PQ_13334" />
+        <item itemvalue="Python.PQ_1655" />
+        <item itemvalue="Python.PQ_13904" />
       </list>
     </recent_temporary>
   </component>
@@ -206,160 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616092066902</updated>
-    </task>
-    <task id="LOCAL-00172" summary="2021_10_13_BaekJoon_Class_4">
-      <created>1634114076387</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1634114076388</updated>
-    </task>
-    <task id="LOCAL-00173" summary="Encore 2 Week - Full Search / Binary Search">
-      <created>1634126420291</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1634126420291</updated>
-    </task>
-    <task id="LOCAL-00174" summary="2021_10_14_BaekJoon_Class_4">
-      <created>1634189272505</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1634189272505</updated>
-    </task>
-    <task id="LOCAL-00175" summary="2021_10_15_BaekJoon_Class_4">
-      <created>1634300221619</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1634300221619</updated>
-    </task>
-    <task id="LOCAL-00176" summary="2021_10_17_BaekJoon_Class_5">
-      <created>1634481538167</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1634481538167</updated>
-    </task>
-    <task id="LOCAL-00177" summary="2021_10_18_BaekJoon_Class_5">
-      <created>1634542240553</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1634542240553</updated>
-    </task>
-    <task id="LOCAL-00178" summary="2021_10_19_BaekJoon_Class_5">
-      <created>1634627814805</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1634627814806</updated>
-    </task>
-    <task id="LOCAL-00179" summary="Update">
-      <created>1634627828530</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1634627828531</updated>
-    </task>
-    <task id="LOCAL-00180" summary="2021_10_20_BaekJoon_Class_5">
-      <created>1634715516591</created>
-      <option name="number" value="00180" />
-      <option name="presentableId" value="LOCAL-00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1634715516591</updated>
-    </task>
-    <task id="LOCAL-00181" summary="2021_10_21_BaekJoon_Class_5">
-      <created>1634791304577</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1634791304578</updated>
-    </task>
-    <task id="LOCAL-00182" summary="2021_10_22_BaekJoon_Class_5">
-      <created>1634895899521</created>
-      <option name="number" value="00182" />
-      <option name="presentableId" value="LOCAL-00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1634895899522</updated>
-    </task>
-    <task id="LOCAL-00183" summary="2021_10_23_BaekJoon_Class_5">
-      <created>1635000074694</created>
-      <option name="number" value="00183" />
-      <option name="presentableId" value="LOCAL-00183" />
-      <option name="project" value="LOCAL" />
-      <updated>1635000074694</updated>
-    </task>
-    <task id="LOCAL-00184" summary="2021_10_24_BaekJoon_Class_5">
-      <created>1635143986110</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1635143986111</updated>
-    </task>
-    <task id="LOCAL-00185" summary="2021_10_25_BaekJoon_Class_5">
-      <created>1635144003738</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1635144003738</updated>
-    </task>
-    <task id="LOCAL-00186" summary="2021_10_26_BaekJoon_Class_5">
-      <created>1635248845376</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1635248845376</updated>
-    </task>
-    <task id="LOCAL-00187" summary="2021_10_27_BaekJoon_DP_Practice">
-      <created>1635316777662</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1635316777662</updated>
-    </task>
-    <task id="LOCAL-00188" summary="2021_10_28_BaekJoon_DP_Practice">
-      <created>1635441218620</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1635441218621</updated>
-    </task>
-    <task id="LOCAL-00189" summary="2021_10_29_BaekJoon_DP_Practice">
-      <created>1635512262529</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1635512262529</updated>
-    </task>
-    <task id="LOCAL-00190" summary="2021_10_30_BaekJoon_DP_Practice">
-      <created>1635585566387</created>
-      <option name="number" value="00190" />
-      <option name="presentableId" value="LOCAL-00190" />
-      <option name="project" value="LOCAL" />
-      <updated>1635585566387</updated>
-    </task>
-    <task id="LOCAL-00191" summary="2021_10_31_BaekJoon_DP_Practice">
-      <created>1635669024607</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1635669024607</updated>
-    </task>
-    <task id="LOCAL-00192" summary="2021_11_01_BaekJoon_DP_Practice">
-      <created>1635735761980</created>
-      <option name="number" value="00192" />
-      <option name="presentableId" value="LOCAL-00192" />
-      <option name="project" value="LOCAL" />
-      <updated>1635735761981</updated>
-    </task>
-    <task id="LOCAL-00193" summary="2021_11_01_BaekJoon_Class_5">
-      <created>1635766173669</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1635766173669</updated>
     </task>
     <task id="LOCAL-00194" summary="2021_11_02_BaekJoon_DP_Practice">
       <created>1635840699974</created>
@@ -550,7 +396,161 @@
       <option name="project" value="LOCAL" />
       <updated>1637407158925</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="Arrangement">
+      <created>1637541146871</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1637541146871</updated>
+    </task>
+    <task id="LOCAL-00222" summary="2021_11_22_BaekJoon_Greedy_Practice">
+      <created>1637562314494</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1637562314495</updated>
+    </task>
+    <task id="LOCAL-00223" summary="2021_11_23_BaekJoon_Greedy_Practice">
+      <created>1637639218066</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1637639218066</updated>
+    </task>
+    <task id="LOCAL-00224" summary="2021_11_23_BaekJoon_Greedy_Practice">
+      <created>1637652271783</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1637652271783</updated>
+    </task>
+    <task id="LOCAL-00225" summary="2021_11_24_BaekJoon_Greedy_Practice">
+      <created>1637730993716</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1637730993717</updated>
+    </task>
+    <task id="LOCAL-00226" summary="2021_11_25_BaekJoon_Greedy_Practice">
+      <created>1637809983961</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1637809983961</updated>
+    </task>
+    <task id="LOCAL-00227" summary="2021_11_26_BaekJoon_Greedy_Practice">
+      <created>1637918847528</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1637918847528</updated>
+    </task>
+    <task id="LOCAL-00228" summary="2021_11_27_BaekJoon_Greedy_Practice">
+      <created>1638017673618</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1638017673619</updated>
+    </task>
+    <task id="LOCAL-00229" summary="2021_11_28_BaekJoon_Greedy_Practice">
+      <created>1638054085827</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1638054085827</updated>
+    </task>
+    <task id="LOCAL-00230" summary="2021_11_29_BaekJoon_Greedy_Practice">
+      <created>1638172397723</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1638172397724</updated>
+    </task>
+    <task id="LOCAL-00231" summary="2021_11_29_BaekJoon_BFS_Practice">
+      <created>1638182940407</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1638182940408</updated>
+    </task>
+    <task id="LOCAL-00232" summary="2021_11_30_BaekJoon_BFS_Practice">
+      <created>1638286403118</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1638286403119</updated>
+    </task>
+    <task id="LOCAL-00233" summary="2021_12_01_BaekJoon_BitMask_Practice">
+      <created>1638375392719</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1638375392719</updated>
+    </task>
+    <task id="LOCAL-00234" summary="2021_12_01_BaekJoon_Dijkstra_Practice">
+      <created>1638378084675</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1638378084675</updated>
+    </task>
+    <task id="LOCAL-00235" summary="2021_12_01_BaekJoon_PriorityQueue_Practice">
+      <created>1638631837916</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1638631837916</updated>
+    </task>
+    <task id="LOCAL-00236" summary="2021_12_05_BaekJoon_PriorityQueue_Practice">
+      <created>1638709515446</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1638709515447</updated>
+    </task>
+    <task id="LOCAL-00237" summary="2021_12_06_BaekJoon_Queue_Practice">
+      <created>1638762580916</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1638762580917</updated>
+    </task>
+    <task id="LOCAL-00238" summary="Integrated">
+      <created>1638762633112</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1638762633112</updated>
+    </task>
+    <task id="LOCAL-00239" summary="2021_12_07_BaekJoon_BitMask_Or_BackTracking_Practice">
+      <created>1638850468297</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1638850468298</updated>
+    </task>
+    <task id="LOCAL-00240" summary="2021_12_07_BaekJoon_BitMask_Or_BackTracking_Practice">
+      <created>1638851503010</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1638851503010</updated>
+    </task>
+    <task id="LOCAL-00241" summary="Priority Queue">
+      <created>1638851550849</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1638851550849</updated>
+    </task>
+    <task id="LOCAL-00242" summary="BaekJoon">
+      <created>1638851595409</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1638851595409</updated>
+    </task>
+    <option name="localTasksCounter" value="243" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -566,32 +566,32 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2021_11_01_BaekJoon_DP_Practice" />
-    <MESSAGE value="2021_11_01_BaekJoon_Class_5" />
-    <MESSAGE value="2021_11_02_BaekJoon_DP_Practice" />
-    <MESSAGE value="2021_11_02_BaekJoon_Class_5" />
-    <MESSAGE value="2021_11_03_BaekJoon_Class_5" />
-    <MESSAGE value="2021_11_03_BaekJoon_DP_Practice" />
-    <MESSAGE value="2021_11_04_BaekJoon_DP_Practice" />
-    <MESSAGE value="2021_11_05_BaekJoon_DP_Practice" />
-    <MESSAGE value="2021_11_06_BaekJoon_DP_Practice" />
-    <MESSAGE value="2021_11_07_BaekJoon_DP_Practice" />
-    <MESSAGE value="2021_11_08_BaekJoon_Class_4" />
-    <MESSAGE value="2021_11_08_BaekJoon_BFS_Practice" />
-    <MESSAGE value="2021_11_08_BaekJoon_DP_Practice" />
-    <MESSAGE value="2021_11_09_BaekJoon_DP_Practice" />
-    <MESSAGE value="2021_11_09_BaekJoon_BFS_Practice" />
-    <MESSAGE value="2021_11_11_BaekJoon_BFS_Practice" />
-    <MESSAGE value="2021_11_12_BaekJoon_BFS_Practice" />
-    <MESSAGE value="2021_11_13_BaekJoon_BFS_Practice" />
-    <MESSAGE value="2021_11_14_BaekJoon_BFS_Practice" />
-    <MESSAGE value="2021_11_15_BaekJoon_BFS_Practice" />
     <MESSAGE value="2021_11_16_BaekJoon_DFS_Practice" />
     <MESSAGE value="2021_11_17_BaekJoon_DFS_Practice" />
     <MESSAGE value="2021_11_18_BaekJoon_BackTracking_Practice" />
     <MESSAGE value="2021_11_19_BaekJoon_BackTracking_Practice" />
     <MESSAGE value="2021_11_20_BaekJoon_BFS_Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021_11_20_BaekJoon_BFS_Practice" />
+    <MESSAGE value="Arrangement" />
+    <MESSAGE value="2021_11_22_BaekJoon_Greedy_Practice" />
+    <MESSAGE value="2021_11_23_BaekJoon_Greedy_Practice" />
+    <MESSAGE value="2021_11_24_BaekJoon_Greedy_Practice" />
+    <MESSAGE value="2021_11_25_BaekJoon_Greedy_Practice" />
+    <MESSAGE value="2021_11_26_BaekJoon_Greedy_Practice" />
+    <MESSAGE value="2021_11_27_BaekJoon_Greedy_Practice" />
+    <MESSAGE value="2021_11_28_BaekJoon_Greedy_Practice" />
+    <MESSAGE value="2021_11_29_BaekJoon_Greedy_Practice" />
+    <MESSAGE value="2021_11_29_BaekJoon_BFS_Practice" />
+    <MESSAGE value="2021_11_30_BaekJoon_BFS_Practice" />
+    <MESSAGE value="2021_12_01_BaekJoon_BitMask_Practice" />
+    <MESSAGE value="2021_12_01_BaekJoon_Dijkstra_Practice" />
+    <MESSAGE value="2021_12_01_BaekJoon_PriorityQueue_Practice" />
+    <MESSAGE value="2021_12_05_BaekJoon_PriorityQueue_Practice" />
+    <MESSAGE value="2021_12_06_BaekJoon_Queue_Practice" />
+    <MESSAGE value="Integrated" />
+    <MESSAGE value="2021_12_07_BaekJoon_BitMask_Or_BackTracking_Practice" />
+    <MESSAGE value="Priority Queue" />
+    <MESSAGE value="BaekJoon" />
+    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1276,227 +1276,227 @@
           <option name="timeStamp" value="315" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>5</line>
           <option name="timeStamp" value="317" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>16</line>
           <option name="timeStamp" value="329" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>32</line>
           <option name="timeStamp" value="330" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>37</line>
           <option name="timeStamp" value="331" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>34</line>
           <option name="timeStamp" value="350" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>35</line>
           <option name="timeStamp" value="351" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>36</line>
           <option name="timeStamp" value="352" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>6</line>
           <option name="timeStamp" value="359" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>7</line>
           <option name="timeStamp" value="360" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>10</line>
           <option name="timeStamp" value="361" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>33</line>
           <option name="timeStamp" value="367" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>18</line>
           <option name="timeStamp" value="368" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>19</line>
           <option name="timeStamp" value="369" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>20</line>
           <option name="timeStamp" value="370" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>21</line>
           <option name="timeStamp" value="371" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>25</line>
           <option name="timeStamp" value="372" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>26</line>
           <option name="timeStamp" value="374" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>27</line>
           <option name="timeStamp" value="375" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>28</line>
           <option name="timeStamp" value="376" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>29</line>
           <option name="timeStamp" value="377" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>30</line>
           <option name="timeStamp" value="378" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>8</line>
           <option name="timeStamp" value="379" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>9</line>
           <option name="timeStamp" value="380" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>11</line>
           <option name="timeStamp" value="381" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>12</line>
           <option name="timeStamp" value="382" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>14</line>
           <option name="timeStamp" value="384" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>13</line>
           <option name="timeStamp" value="385" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>15</line>
           <option name="timeStamp" value="386" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>91</line>
           <option name="timeStamp" value="387" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>114</line>
           <option name="timeStamp" value="397" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>115</line>
           <option name="timeStamp" value="398" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>117</line>
           <option name="timeStamp" value="402" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>118</line>
           <option name="timeStamp" value="403" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>119</line>
           <option name="timeStamp" value="404" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>120</line>
           <option name="timeStamp" value="405" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>153</line>
           <option name="timeStamp" value="407" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>121</line>
           <option name="timeStamp" value="408" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>108</line>
           <option name="timeStamp" value="409" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>110</line>
           <option name="timeStamp" value="410" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>111</line>
           <option name="timeStamp" value="411" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>112</line>
           <option name="timeStamp" value="413" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>113</line>
           <option name="timeStamp" value="414" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>199</line>
           <option name="timeStamp" value="419" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>244</line>
           <option name="timeStamp" value="420" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>242</line>
           <option name="timeStamp" value="430" />
         </line-breakpoint>
@@ -1581,77 +1581,77 @@
           <option name="timeStamp" value="451" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>243</line>
           <option name="timeStamp" value="452" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>221</line>
           <option name="timeStamp" value="457" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>220</line>
           <option name="timeStamp" value="458" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>230</line>
           <option name="timeStamp" value="462" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>237</line>
           <option name="timeStamp" value="464" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>238</line>
           <option name="timeStamp" value="465" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>239</line>
           <option name="timeStamp" value="466" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>232</line>
           <option name="timeStamp" value="467" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>234</line>
           <option name="timeStamp" value="468" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>235</line>
           <option name="timeStamp" value="469" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>233</line>
           <option name="timeStamp" value="470" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>269</line>
           <option name="timeStamp" value="471" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>268</line>
           <option name="timeStamp" value="475" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>271</line>
           <option name="timeStamp" value="476" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>247</line>
           <option name="timeStamp" value="477" />
         </line-breakpoint>
@@ -1701,327 +1701,327 @@
           <option name="timeStamp" value="584" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>314</line>
           <option name="timeStamp" value="596" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>315</line>
           <option name="timeStamp" value="597" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>317</line>
           <option name="timeStamp" value="598" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>318</line>
           <option name="timeStamp" value="599" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>320</line>
           <option name="timeStamp" value="600" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>321</line>
           <option name="timeStamp" value="601" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>322</line>
           <option name="timeStamp" value="602" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>323</line>
           <option name="timeStamp" value="604" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>324</line>
           <option name="timeStamp" value="605" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>316</line>
           <option name="timeStamp" value="607" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/test2.py</url>
           <line>319</line>
           <option name="timeStamp" value="608" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>67</line>
           <option name="timeStamp" value="610" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>68</line>
           <option name="timeStamp" value="611" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>70</line>
           <option name="timeStamp" value="614" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>72</line>
           <option name="timeStamp" value="616" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>73</line>
           <option name="timeStamp" value="617" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>74</line>
           <option name="timeStamp" value="618" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>76</line>
           <option name="timeStamp" value="619" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>77</line>
           <option name="timeStamp" value="620" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>79</line>
           <option name="timeStamp" value="621" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>81</line>
           <option name="timeStamp" value="623" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>80</line>
           <option name="timeStamp" value="624" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>82</line>
           <option name="timeStamp" value="625" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>83</line>
           <option name="timeStamp" value="626" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>85</line>
           <option name="timeStamp" value="627" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>88</line>
           <option name="timeStamp" value="628" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>71</line>
           <option name="timeStamp" value="629" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>75</line>
           <option name="timeStamp" value="630" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>78</line>
           <option name="timeStamp" value="631" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>84</line>
           <option name="timeStamp" value="632" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>110</line>
           <option name="timeStamp" value="633" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>135</line>
           <option name="timeStamp" value="634" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>119</line>
           <option name="timeStamp" value="635" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>120</line>
           <option name="timeStamp" value="636" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>123</line>
           <option name="timeStamp" value="637" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>121</line>
           <option name="timeStamp" value="638" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>122</line>
           <option name="timeStamp" value="639" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>124</line>
           <option name="timeStamp" value="640" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>125</line>
           <option name="timeStamp" value="641" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>126</line>
           <option name="timeStamp" value="643" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>127</line>
           <option name="timeStamp" value="644" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>128</line>
           <option name="timeStamp" value="645" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>129</line>
           <option name="timeStamp" value="646" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>130</line>
           <option name="timeStamp" value="647" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>131</line>
           <option name="timeStamp" value="648" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>133</line>
           <option name="timeStamp" value="649" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>166</line>
           <option name="timeStamp" value="650" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bagel_line.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bagel_line.py</url>
           <line>141</line>
           <option name="timeStamp" value="651" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>1</line>
           <option name="timeStamp" value="653" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>8</line>
           <option name="timeStamp" value="654" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>9</line>
           <option name="timeStamp" value="655" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>12</line>
           <option name="timeStamp" value="657" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>11</line>
           <option name="timeStamp" value="658" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>13</line>
           <option name="timeStamp" value="659" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>14</line>
           <option name="timeStamp" value="660" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>15</line>
           <option name="timeStamp" value="661" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>16</line>
           <option name="timeStamp" value="662" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>17</line>
           <option name="timeStamp" value="663" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>18</line>
           <option name="timeStamp" value="664" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>19</line>
           <option name="timeStamp" value="665" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>38</line>
           <option name="timeStamp" value="666" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>20</line>
           <option name="timeStamp" value="667" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>21</line>
           <option name="timeStamp" value="668" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>26</line>
           <option name="timeStamp" value="669" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BaekJoon/bitmango.py</url>
+          <url>file://$PROJECT_DIR$/CodingTest/bitmango.py</url>
           <line>27</line>
           <option name="timeStamp" value="670" />
         </line-breakpoint>
