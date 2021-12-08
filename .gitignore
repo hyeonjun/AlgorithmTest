@@ -13,3 +13,12 @@ venv
 ./venv/
 /venv/
 venv/
+
+.idea
+/idea
+./idea
+
+.idea/
+/idea/
+./idea/
+
