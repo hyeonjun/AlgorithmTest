@@ -4,25 +4,23 @@ def solution(info, edges):
     graph = [[] for _ in range(len(info))]
     for x, y in edges:
         graph[x].append(y)
-        graph[y].append(x)
     answer = 0
 
-    def dfs(node_set, wolf, sheep):
+    def dfs(node, wolf, sheep):
         global answer
         answer = max(answer, sheep)
-        for node in node_set:
-            for adj in graph[node]:
-                if adj in node_set:
+
+        for n in node:
+            for adj in graph[n]:
+                if adj in node or (info[adj] == 1 and sheep <= wolf+1):
                     continue
+                node.add(adj)
                 if info[adj] == 0:
-                    node_set.add(adj)
-                    dfs(node_set, wolf, sheep+1)
-                    node_set.remove(adj)
+                    dfs(node, wolf, sheep+1)
                 else:
-                    if sheep > wolf+1:
-                        node_set.add(adj)
-                        dfs(node_set, wolf+1, sheep)
-                        node_set.remove(adj)
+                    dfs(node, wolf+1, sheep)
+                node.remove(adj)
+
     dfs(set([0]), 0, 1)
     return answer
 
