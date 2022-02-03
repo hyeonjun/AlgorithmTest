@@ -1,3 +1,4 @@
+# Sort, Two Pointer
 class Solution:
     def fourSum(self, nums: list[int], target: int) -> list[list[int]]:
         nums.sort()
