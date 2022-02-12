@@ -13,14 +13,25 @@ for _ in range(n):
     y, x, d, g = map(int, input().split())
     board[x][y] = 1
 
-    nxt, prev = [d], [d]
-    for _ in range(g+1): # g번 세대를 걸쳐서 드래곤 커브 확장
-        for i in nxt:
-            x += direction[i][0]
-            y += direction[i][1]
-            board[x][y] = 1
-        nxt = [(p + 1) % 4 for p in prev][::-1]
-        prev += nxt
+    # 방법 1
+    # nxt, prev = [d], [d]
+    # for _ in range(g+1): # g번 세대를 걸쳐서 드래곤 커브 확장
+    #     for i in nxt:
+    #         x += direction[i][0]
+    #         y += direction[i][1]
+    #         board[x][y] = 1
+    #     nxt = [(p + 1) % 4 for p in prev][::-1]
+    #     prev += nxt
+
+    # 방법 2
+    curve = [d]
+    for _ in range(g):
+        for i in range(len(curve)-1, -1, -1):
+            curve.append((curve[i]+1) % 4)
+    for i in curve:
+        x += direction[i][0]
+        y += direction[i][1]
+        board[x][y] = 1
 
 answer = 0
 for i in range(100):
